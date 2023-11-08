@@ -7,7 +7,7 @@ This repo contains all of the architecture and guiding documents for the team: o
 The team consists of:
  - Jaime Angel | linkedin.com/in/__ | github.com/__
  - Ian Bennett | linkedin.com/in/__ | github.com/__
- - Deqa Hussein | linkedin.com/in/__ | github.com/__
+ - Deqa Hussein | [linkedin.com/in/__ ](https://www.linkedin.com/in/deqa-hussein-408196144/)| https://github.com/DeqaHussein/ops-reading-notes
  - David Morgan | linkedin.com/in/__ | github.com/__
  - Festus Oguhebe, Jr. | linkedin.com/in/__ | github.com/__
  - Michael Roberts | linkedin.com/in/__ | github.com/__
