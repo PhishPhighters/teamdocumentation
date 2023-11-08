@@ -10,7 +10,7 @@ The team consists of:
  - Deqa Hussein | [linkedin.com/in/__ ](https://www.linkedin.com/in/deqa-hussein-408196144/)| https://github.com/DeqaHussein/ops-reading-notes
  - David Morgan | linkedin.com/in/__ | github.com/__
  - Festus Oguhebe, Jr. | linkedin.com/in/__ | github.com/__
- - Michael Roberts | [Michael Roberts LinkedIn](www.linkedin.com/in/michael-roberts33) | [Mj Roberts Github]([github.com/Mjroberts7](https://github.com/Mjroberts7))
+ - Michael Roberts | [Michael Roberts LinkedIn](www.linkedin.com/in/michael-roberts33) | [Mj Roberts Github](https://github.com/Mjroberts7)
 
 ## Collaboration
 We are managing this product through the collaborative use of Trello. We are collaborating through use of primarily Slack and Zoom, as well as completing documentation in Google Docs/Drive and Git/Github.
