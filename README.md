@@ -6,7 +6,7 @@ This repo contains all of the architecture and guiding documents for the team: o
 ## Membership
 The team consists of:
  - Jaime Angel | linkedin.com/in/__ | github.com/__
- - Ian Bennett | linkedin.com/in/__ | github.com/__
+ - Ian Bennett | [My LinkedIn](https://www.linkedin.com/in/subtropicalhorseback) | [my github](https://www.github.com/subtropicalhorseback)
  - Deqa Hussein | [linkedin.com/in/__ ](https://www.linkedin.com/in/deqa-hussein-408196144/)| https://github.com/DeqaHussein/ops-reading-notes
  - David Morgan | linkedin.com/in/__ | github.com/__
  - Festus Oguhebe, Jr. | [Festus Oguhebe Jr. LinkedIn](https://www.linkedin.com/in/festus-oguhebe-jr-foco/) | [Festus Oguhebe Jr. Github](https://github.com/focodecided/)
