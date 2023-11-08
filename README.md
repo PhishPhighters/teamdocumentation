@@ -9,7 +9,7 @@ The team consists of:
  - Ian Bennett | linkedin.com/in/__ | github.com/__
  - Deqa Hussein | [linkedin.com/in/__ ](https://www.linkedin.com/in/deqa-hussein-408196144/)| https://github.com/DeqaHussein/ops-reading-notes
  - David Morgan | linkedin.com/in/__ | github.com/__
- - Festus Oguhebe, Jr. | [linkedin.com/in/__](https://www.linkedin.com/in/festus-oguhebe-jr-foco/) | [github.com/__](https://github.com/focodecided/)
+ - Festus Oguhebe, Jr. | [Festus Oguhebe Jr. LinkedIn](https://www.linkedin.com/in/festus-oguhebe-jr-foco/) | [Festus Oguhebe Jr. Github](https://github.com/focodecided/)
  - Michael Roberts | [Michael Roberts LinkedIn](https://www.linkedin.com/in/michael-roberts33) | [Mj Roberts Github](https://github.com/Mjroberts7)
 
 ## Collaboration
