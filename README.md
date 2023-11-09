@@ -8,7 +8,7 @@ The team consists of:
  - Jaime Angel | linkedin.com/in/__ | github.com/__
  - Ian Bennett | [Ian's LinkedIn](https://www.linkedin.com/in/subtropicalhorseback) | [Ian's github](https://www.github.com/subtropicalhorseback/)
  - Deqa Hussein | [Deqa's Linkedin](https://www.linkedin.com/in/deqa-hussein-408196144/)| [Deqa's github](https://github.com/DeqaHussein/)
- - David Morgan | [David's Linkedin](https://www.linkedin.com/in/david-morgan-a749311ba) | [David's github]([github.com/__](https://github.com/Halfbreed10/)
+ - David Morgan | [David's Linkedin](https://www.linkedin.com/in/david-morgan-a749311ba) | [David's github](https://github.com/Halfbreed10/)
  - Festus Oguhebe, Jr. | [Festus Oguhebe Jr. LinkedIn](https://www.linkedin.com/in/festus-oguhebe-jr-foco/) | [Festus Oguhebe Jr. Github](https://github.com/focodecided/)
  - Michael Roberts | [Michael Roberts LinkedIn](https://www.linkedin.com/in/michael-roberts33) | [Mj Roberts Github](https://github.com/Mjroberts7)
 
