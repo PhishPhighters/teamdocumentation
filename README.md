@@ -5,9 +5,9 @@ This repo contains all of the architecture and guiding documents for the team: o
 
 ## Membership
 The team consists of:
- - Jaime Angel | [Jaime's LinkedIn](www.linkedin.com/in/jaime-angel)| [Jaime's github](https://github.com/jaimeangelhi/)
+ - Jaime Angel | [Jaime's LinkedIn](www.linkedin.com/in/jaime-angel) | [Jaime's github](https://github.com/jaimeangelhi/)
  - Ian Bennett | [Ian's LinkedIn](https://www.linkedin.com/in/subtropicalhorseback) | [Ian's github](https://www.github.com/subtropicalhorseback/)
- - Deqa Hussein | [Deqa's Linkedin](https://www.linkedin.com/in/deqa-hussein-408196144/)| [Deqa's github](https://github.com/DeqaHussein/)
+ - Deqa Hussein | [Deqa's Linkedin](https://www.linkedin.com/in/deqa-hussein-408196144/) | [Deqa's github](https://github.com/DeqaHussein/)
  - David Morgan | [David's Linkedin](https://www.linkedin.com/in/david-morgan-a749311ba) | [David's github](https://github.com/Halfbreed10/)
  - Festus Oguhebe, Jr. | [Festus Oguhebe Jr. LinkedIn](https://www.linkedin.com/in/festus-oguhebe-jr-foco/) | [Festus Oguhebe Jr. Github](https://github.com/focodecided/)
  - Michael Roberts | [Michael Roberts LinkedIn](https://www.linkedin.com/in/michael-roberts33) | [Mj Roberts Github](https://github.com/Mjroberts7)
