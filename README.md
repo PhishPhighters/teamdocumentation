@@ -13,7 +13,7 @@ The team consists of:
  - Michael Roberts | [MJ's LinkedIn](https://www.linkedin.com/in/michael-roberts33) | [MJ's Github](https://github.com/Mjroberts7)
 
 ## Collaboration
-We are managing this product through the collaborative use of Trello. We are collaborating through use of primarily Slack and Zoom, as well as completing documentation in Google Docs/Drive and Git/Github.
+We are managing this product through the collaborative use of Trello. We are collaborating through use of primarily Slack and Remo, as well as completing documentation in Google Docs/Drive and Git/Github.
 
 ## Contents
 
