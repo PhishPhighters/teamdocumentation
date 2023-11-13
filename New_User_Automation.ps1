@@ -51,11 +51,17 @@ function Test-UserGroupMembership {
     }
 }
 
-# Checks if the user is a member of $Employees and if it will map network drive
+# Checks if the user is a member of $Employees and if it will map network drive and enable remote access to desktop through powershell and the firewall
 if (Test-UserGroupMembership -UserName $username -GroupName $Employees) {
     # map network drive for users that are in the Employees group
     Write-Output "Mapping Network drive N"
     New-PSDrive -Name $drive -PSProvider FileSystem -Root $networkPath -Persist
+    Write-Output "Enabling Remote Access through Firewall and Powershell"
+    # This is for powershell remote access
+    Enable-PSRemoting -Force
+    Enable-NetFirewallRule -Name "WinRM-HHTP-In-TCP" -Force
+    # This is for allowing remote desktop 
+    Enable-NetFirewallRule -Name "RemoteDesktop-UserMode-In-TCP" -Force
 } else {
     Write-Output "Member is not in group Employees"
 }
