@@ -10,7 +10,7 @@ The team consists of:
  - Deqa Hussein | [Deqa's Linkedin](https://www.linkedin.com/in/deqa-hussein-408196144/) | [Deqa's github](https://github.com/DeqaHussein/)
  - David Morgan | [David's Linkedin](https://www.linkedin.com/in/david-morgan-a749311ba) | [David's github](https://github.com/Halfbreed10/)
  - Festus Oguhebe, Jr. | [Festus Oguhebe Jr. LinkedIn](https://www.linkedin.com/in/festus-oguhebe-jr-foco/) | [Festus Oguhebe Jr. Github](https://github.com/focodecided/)
- - Michael Roberts | [Michael Roberts LinkedIn](https://www.linkedin.com/in/michael-roberts33) | [Mj Roberts Github](https://github.com/Mjroberts7)
+ - Michael Roberts | [MJ's LinkedIn](https://www.linkedin.com/in/michael-roberts33) | [MJ's Github](https://github.com/Mjroberts7)
 
 ## Collaboration
 We are managing this product through the collaborative use of Trello. We are collaborating through use of primarily Slack and Zoom, as well as completing documentation in Google Docs/Drive and Git/Github.
