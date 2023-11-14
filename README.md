@@ -19,7 +19,7 @@ We are managing this product through the collaborative use of Trello. We are col
 
 ### 1) [Team Agreement](https://docs.google.com/document/d/1im0ebNyapdZ4pC8hVz3Wewc1ZpQuY2aMAcvXblTPqho/edit?usp=sharing)
 ### 2) [System Selection Discussion](https://docs.google.com/document/d/1Pi80jp14e4GjwUXNMaY7EeqVyF_dBCWlAPoGk5J5FLI/edit?usp=sharing)
-### 3) Network Topology [add link }
+### 3) Network Topology [.drawio](https://github.com/PhishPhighters/teamdocumentation/blob/main/topo.drawio)//[.svg](https://github.com/PhishPhighters/teamdocumentation/blob/main/topo1.svg)
 ### 4) Slide Deck [add link }
 ### 5) Standard Operating Procedure (SOP) Documents
   ##### a) SOP 1: Meaningful Title [add link }
