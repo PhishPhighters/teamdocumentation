@@ -6,7 +6,7 @@ Windows Use and Security Fundamentals Training SOP - (Task 3) Deqa
 
 Computer Security Fundamentals Training SOP - (Task 4) Deqa
 
-Backup and Restoration SOP - (Task 11) Deqa
+Backup and Restoration SOP - (Task 11) Micheal
 
 Sensitive Data Disposal SOP - (Task 12) Deqa
 
