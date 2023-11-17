@@ -34,4 +34,4 @@
 
 *[Sensitive Data Disposal SOP]( ) - Deqa Hussein
 
-*[Support Troubleshooting SOP]( ) - David Morgan
+*[SOP: Support Troubleshooting](https://docs.google.com/document/d/1GuMCgvDfPQuJQe1k9C-mkZcnETg592O78iTa6JHchs8/edit?usp=drive_link) - David Morgan
