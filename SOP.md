@@ -18,6 +18,10 @@
 
 [SOP: Outlining Offsite/Remote IT Support](https://docs.google.com/document/d/1VnwmlPzJRZH_pTGzZdsQHQM7NNsgAg3eNzTHBSyhC6o/) - Ian Bennett
 
+[SOP: Sensitive Data Disposal](https://docs.google.com/document/d/1NPf3YbP4D52jc9MQ7JKKk0vwNr9voObtT6oi2bFFTLU/edit?usp=sharing) - Deqa Hussein
+
+[SOP: Support Troubleshooting](https://docs.google.com/document/d/1GuMCgvDfPQuJQe1k9C-mkZcnETg592O78iTa6JHchs8/edit?usp=drive_link) - David Morgan
+
 [SOP: Supporting Company Cloud Services](https://docs.google.com/document/d/1eyV4PizeofLOai8h2bQIHIw3ZDtrLV77koR4Zg3uLjk/) - Ian Bennett
 
 [SOP: Technology Purchase Requests](https://docs.google.com/document/d/1Ykv1HbDyIXAMAzLp62vT28lLM8xsq3dQUR0A0En9Ajk/) - Festus Oguhebe Jr
@@ -29,9 +33,3 @@
 [SOP: Windows System Support](https://docs.google.com/document/d/1KjP-vL_m2DMQFGyyTthi65IRgwax37WQBpjhda0hNGQ/) - Jaime Angel
 
 [SOP: Workstation Threat Security](https://docs.google.com/document/d/173D5u0Y4Mu98pvmNnNPCH5CKK6-HRzxWBkt_vD993Zk/) - Michael J Roberts
-
-
-
-[SOP: Sensitive Data Disposal](https://docs.google.com/document/d/1NPf3YbP4D52jc9MQ7JKKk0vwNr9voObtT6oi2bFFTLU/edit?usp=sharing) - Deqa Hussein
-
-[SOP: Support Troubleshooting](https://docs.google.com/document/d/1GuMCgvDfPQuJQe1k9C-mkZcnETg592O78iTa6JHchs8/edit?usp=drive_link) - David Morgan
