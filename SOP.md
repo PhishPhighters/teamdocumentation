@@ -4,8 +4,6 @@
 
 [SOP: Automated User Account Provisioning](https://docs.google.com/document/d/1BZg4szjLjldMzf2ssZHxddnpf-qNEoVK68biz3xl1VU/) - Michael J Roberts
 
-[SOP: Supporting Company Cloud Services](https://docs.google.com/document/d/1eyV4PizeofLOai8h2bQIHIw3ZDtrLV77koR4Zg3uLjk/) - Ian Bennett
-
 [SOP: Computer Security Fundamentals Training](https://docs.google.com/document/d/1oIcKMeBcCyyg89W798EmgJwJwV45t2U17pxXcSGyKFI/) - Deqa Hussein
 
 [SOP: Creating a Network Drive and Mapping to It](https://docs.google.com/document/d/1yP2FN5rL2A7oocq4oW9-NO5B2JPHbNw0g11UnS7A4aw/) - Michael J Roberts
@@ -19,6 +17,8 @@
 [SOP: Onboarding](https://docs.google.com/document/d/1A6p_PNCr4j8LzZEDvUzsohjZQLiKFPHmC1PKhGt2A5o/) - Deqa Hussein
 
 [SOP: Outlining Offsite/Remote IT Support](https://docs.google.com/document/d/1VnwmlPzJRZH_pTGzZdsQHQM7NNsgAg3eNzTHBSyhC6o/) - Ian Bennett
+
+[SOP: Supporting Company Cloud Services](https://docs.google.com/document/d/1eyV4PizeofLOai8h2bQIHIw3ZDtrLV77koR4Zg3uLjk/) - Ian Bennett
 
 [SOP: Technology Purchase Requests](https://docs.google.com/document/d/1Ykv1HbDyIXAMAzLp62vT28lLM8xsq3dQUR0A0En9Ajk/) - Festus Oguhebe Jr
 
